@@ -1,6 +1,6 @@
 {
   "name": "then-palmetto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Then Palmetto is a module that uses the promise api to the palmetto flow pattern.",
   "main": "index.js",
   "directories": {
