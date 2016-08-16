@@ -15,5 +15,14 @@
   "devDependencies": {
     "palmettoflow-nodejs": "^1.0.1",
     "tap": "^6.3.2"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twilson63/then-palmetto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twilson63/then-palmetto/issues"
+  },
+  "homepage": "https://github.com/twilson63/then-palmetto#readme"
 }
